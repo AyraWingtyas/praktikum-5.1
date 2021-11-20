@@ -1,0 +1,56 @@
+    .header1{
+        border: 1px solid; 
+        width: 46em; 
+        height: 41em; 
+        margin: auto;
+    }
+    .header2{
+        text-align: center; 
+        border: 1px solid;
+        padding-bottom: 2%;
+        background-color: #DCDCDC;
+    }
+    .inp{
+        width: 53em; 
+        border: 1px solid; 
+        height: 1.6em;
+    }
+
+    .div1 {
+        border: 1px solid;
+        width: 10em;
+        height: 31em;
+        background: #F4EB49;
+        margin-left: 3%;
+        margin-top: 2%;
+        float: left;
+    }
+    .div2 {
+        border: 1px solid;
+        width: 10em;
+        height: 31em;
+        background: #FF6624;
+        margin-left: 3%;
+        margin-top: 2%;
+        float: left;  
+    }
+    .div3 {
+        border: 1px solid;
+        width: 9em;
+        height: 31em;
+        background: #4DD7FA;
+        margin-left: 1%;
+        margin-top: 2%;
+        margin-right: 3%;
+        float: right;
+    }
+    .div4 {
+        border: 1px solid;
+        width: 9em;
+        height: 31em;
+        background: #AEDD94;
+        margin-left: 1%;
+        margin-top: 2%;
+        margin-right: 3%;
+        float: right;
+    }
